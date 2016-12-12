@@ -12,7 +12,9 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
-            var obj = new Test();
+            var test = new Test();
+
+            test.DoWork();
 
         }
     }
