@@ -13,7 +13,7 @@ namespace ConsoleApplication1
             var test = new Test();
             Console.WriteLine("Hello");
             Console.WriteLine("Hello");
-            Console.WriteLine("Hello");
+            
             int a = 5;
             Debug.WriteLine("a is: {0}", a);
 
