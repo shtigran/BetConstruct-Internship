@@ -16,7 +16,6 @@ namespace ConsoleApplication1
 
             test.DoWork();
             test.DoWork();
-            test.DoWork();
 
 
         }
