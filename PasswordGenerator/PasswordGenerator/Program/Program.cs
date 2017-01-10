@@ -18,8 +18,7 @@ namespace Program
                 Console.WriteLine(PasswordGenCrypto.PassGen(16));
             }
             Console.WriteLine();
-            Console.WriteLine();
-
+           
 
             Console.WriteLine("The password generation by: RNGCrypto and BitConverter.");
             for (int i = 0; i < 5; i++)
