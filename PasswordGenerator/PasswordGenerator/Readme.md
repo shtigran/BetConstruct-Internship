@@ -1,5 +1,5 @@
 Password Generator 
-Using RNGCryptoServiceProvider and Random
+Using RNGCryptoServiceProvider and Random Classes
 
  In program
  
