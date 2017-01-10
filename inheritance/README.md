@@ -1,3 +1,2 @@
-Portfolio
+Inheritance of abstract classe
 
-BetConstruct internship
