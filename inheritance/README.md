@@ -1,2 +1,2 @@
-Inheritance of abstract classe
+Inheritance of abstract classe and polimorphizm
 
