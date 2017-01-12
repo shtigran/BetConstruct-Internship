@@ -12,14 +12,13 @@ You can see in my projects:
   
 
 ----
-```c#
 **Additional information**
 
 email: shakhbekyantigran@gmail.com
 
 codefights website: https://codefights.com/profile/tigran_sh3
 
-```c#
+
 
 [Inheritance]: <https://github.com/shtigran/BetConstruct-Internship/tree/master/Inheritance%20and%20polymorphism>
 [Polymorphism]: <https://github.com/shtigran/BetConstruct-Internship/tree/master/Inheritance%20and%20polymorphism>
