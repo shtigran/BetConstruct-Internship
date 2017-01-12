@@ -119,3 +119,5 @@ Console.WriteLine("The password generation by: PasswordGenCrypto.");
 ![image](C:\Users\Tigran\Desktop\111.jpg = 250x250)
 
 [![N|Solid](C:\Users\Tigran\Desktop\111.jpg)
+![Alt text](C:\Users\Tigran\Desktop\111.jpg?raw=true "Optional Title")
+
