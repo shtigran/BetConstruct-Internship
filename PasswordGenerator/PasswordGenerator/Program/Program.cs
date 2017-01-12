@@ -29,7 +29,6 @@ namespace Program
             {
                 Console.WriteLine(PasswordGenRandom.PassGenRand(32));
             }
-            Console.WriteLine();
 
 
             Console.ReadKey();
