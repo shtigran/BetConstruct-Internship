@@ -1,6 +1,8 @@
 # BetConstruct internship projects
 
-[![N|Solid](http://www.puremicrogaming.com/media/1369300/betconstruct-logo-pn.jpg)](https://www.betconstruct.com/)
+[![N|Solid 
+width = "200"
+](http://www.puremicrogaming.com/media/1369300/betconstruct-logo-pn.jpg)](https://www.betconstruct.com/)
 
 ----
 Here are shown my c# projects, in which used the c# and .NET.  
