@@ -1,10 +1,7 @@
-Password Generator 
-Using RNGCryptoServiceProvider and Random Classes
+# Password Generator 
+This project allow You to generate password by diferents ways:
 
- In program
- 
- Console.WriteLine("The password generation by: RNGCrypto.");
-            for (int i = 0; i < 5; i++)
-            {
-                Console.WriteLine(PasswordGenCrypto.PassGen(16));
-            }
+- Generation by Cryptography
+- Generation by Cryptography with using BitConverter class method
+- Generation by Random numbers
+----
