@@ -9,6 +9,7 @@ This project allow You to generate password by diferents ways:
 
 ### Purpose
 The destination of this project and classes to provide generation of password by 3 diferents ways.
+
 ----
 
 ### PasswordGenCrypto class implementation
