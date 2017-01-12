@@ -116,8 +116,7 @@ Console.WriteLine("The password generation by: PasswordGenCrypto.");
             }
 ```
 ### Result
-![image](C:\Users\Tigran\Desktop\111.jpg = 250x250)
+![image](https://github.com/shtigran/BetConstruct-Internship/blob/master/PasswordGenerator/PasswordGenerator/PasswordGenerator/Result.jpg = 250x250)
 
-[![N|Solid](C:\Users\Tigran\Desktop\111.jpg)
-![Alt text](C:\Users\Tigran\Desktop\111.jpg?raw=true "Optional Title")
+As You can see, the results differ in different classes as well as in the same classes but other iteration.
 
