@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\inheritance\inheritance.csproj">
+    <ProjectReference Include="..\inheritance\Inheritance.csproj">
       <Project>{bcd547a4-94fb-491b-9415-14ecba0caacf}</Project>
-      <Name>inheritance</Name>
+      <Name>Inheritance</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

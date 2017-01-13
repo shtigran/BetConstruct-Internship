@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using InheritanceExample;
+using inheritance;
+
 namespace Program
 {
     class Program
@@ -11,6 +12,7 @@ namespace Program
         static void Main(string[] args)
         {
 
+            Console.WriteLine("_____Example of Inheritance_____\n");
             Parallelepiped shape1 = new Parallelepiped();
             shape1.display();
 
@@ -19,7 +21,6 @@ namespace Program
 
             Parallelepiped shape3 = new Parallelepiped("NEWParallelepiped2", 8, 13, 9);
             shape3.display();
-
 
             Ellipsoid shape4 = new Ellipsoid();
             shape4.display();
