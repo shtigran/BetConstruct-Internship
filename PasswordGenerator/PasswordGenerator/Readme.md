@@ -14,7 +14,7 @@ The destination of this project and classes to provide generation of password by
 ----
 
 ### PasswordGenCrypto class implementation
-```
+```c#
 public class PasswordGenCrypto
     {
         static public string GetString(byte [] data)
