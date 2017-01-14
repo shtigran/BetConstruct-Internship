@@ -121,8 +121,6 @@ Console.WriteLine("The password generation by: PasswordGenCrypto.");
 
 The password generation by: PasswordGenCrypto.
 
-The password generation by: PasswordGenCrypto.
-
 1173433721275147492982185110012615483
 1836034201191726620714012825299802364295
 43191205177542471801437621321622722190101167
