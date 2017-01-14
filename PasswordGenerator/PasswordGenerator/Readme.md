@@ -98,7 +98,7 @@ In this class we use  class Random, which represents a pseudo-random number gene
 
 ### Test 
 We invoke this methods by loops to illustrate the diferences.
-```
+```c#
 Console.WriteLine("The password generation by: PasswordGenCrypto.");
             for (int i = 0; i < 5; i++)
             {
