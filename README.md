@@ -28,7 +28,7 @@ codefights website: https://codefights.com/profile/tigran_sh3
 [Polymorphism]: <https://github.com/shtigran/BetConstruct-Internship/tree/master/Inheritance%20and%20polymorphism>
 [Password Generator]: <https://github.com/shtigran/BetConstruct-Internship/tree/master/PasswordGenerator/PasswordGenerator>
 [Enum Indexer]: <https://github.com/shtigran/BetConstruct-Internship/tree/master/Enum%20Indexer>
-[Extension Methods]: <https://github.com/shtigran/BetConstruct-Internship/tree/master/ExtensionMethods>
+[Extension Methods for string]: <https://github.com/shtigran/BetConstruct-Internship/tree/master/ExtensionMethods>
 [Extension Method IsPolindrom]: <https://github.com/shtigran/BetConstruct-Internship/tree/master/ExtensionMethodIsPolindrom>
 
 
