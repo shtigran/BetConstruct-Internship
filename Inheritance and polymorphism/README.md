@@ -85,6 +85,7 @@ public class Ellipsoid : Shape3d
 In this class we add two constructors, three fields (specific for this class) and have overrided base class two abstract methods.
 
 ### The Parallelepiped derived class implementation
+```c#
 public class Parallelepiped : Shape3d
 {
 
@@ -118,6 +119,7 @@ public class Parallelepiped : Shape3d
         private double side_c { get; set; }
 
 }
+```
 ### Description of Parallelepiped class
 In this class we also add two constructors, three fields (specific for this class) and have overrided base class two abstract methods.
 
