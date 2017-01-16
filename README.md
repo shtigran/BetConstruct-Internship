@@ -11,6 +11,7 @@ You can see in my projects:
   - [Polymorphism]
   - [Enum Indexer]
   - [Extension Methods]
+  - [Extension Method IsPolindrom]
 
   
 
@@ -28,5 +29,6 @@ codefights website: https://codefights.com/profile/tigran_sh3
 [Password Generator]: <https://github.com/shtigran/BetConstruct-Internship/tree/master/PasswordGenerator/PasswordGenerator>
 [Enum Indexer]: <https://github.com/shtigran/BetConstruct-Internship/tree/master/Enum%20Indexer>
 [Extension Methods]: <https://github.com/shtigran/BetConstruct-Internship/tree/master/ExtensionMethods>
+[Extension Method IsPolindrom]: <https://github.com/shtigran/BetConstruct-Internship/tree/master/ExtensionMethodIsPolindrom>
 
 
