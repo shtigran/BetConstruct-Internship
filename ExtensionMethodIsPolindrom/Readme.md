@@ -2,5 +2,10 @@
 # C#6  .NET4.6
 
 ----
-This project allow You to generate password by diferents ways:
+This project allow You indicate is the integer polindrom or not.
+----
+
+### Purpose
+We have int variable and we need know does it polindrom or not. For this purpose we use IsPolindrom function.
+
 
