@@ -10,7 +10,7 @@ You can see in my projects:
   - [Inheritance]
   - [Polymorphism]
   - [Enum Indexer]
-  - [Extension Methods]
+  - [Extension Methods for string]
   - [Extension Method IsPolindrom]
 
   
