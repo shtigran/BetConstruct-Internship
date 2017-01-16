@@ -21,6 +21,7 @@ namespace Program
 
             Parallelepiped shape3 = new Parallelepiped("NEWParallelepiped2", 8, 13, 9);
             shape3.display();
+            Console.WriteLine();
 
             Ellipsoid shape4 = new Ellipsoid();
             shape4.display();
