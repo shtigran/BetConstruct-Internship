@@ -1,5 +1,5 @@
 # Extension Methods for strings
-# C#6  .NET4.6
+# C#6.0  .NET Framework 4.6
 ----
 
 The class library contains folloing extension method for string:
