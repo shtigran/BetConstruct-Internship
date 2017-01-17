@@ -1,5 +1,5 @@
 # Extension Method IsPolindrom
-# C#6  .NET4.6
+# C#6.0  .NET Framework 4.6
 
 ----
 This project allow You indicate is the integer polindrom or not.
