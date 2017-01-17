@@ -1,5 +1,5 @@
 # Enum indexer
-# C#6  .NET4.6
+# C#6.0  .NET FRAMEWORK 4.6
 ----
 
 ### Purpose
