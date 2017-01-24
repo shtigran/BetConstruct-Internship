@@ -3,7 +3,7 @@
 [![N|Solid](http://totallygaming.com/sites/totallygaming/files/company/logo/betconstruct_.png)](https://www.betconstruct.com/)
 
 ----
-Here are shown my c# projects, in which used the c# and .NET.  
+Here are shown my c# projects, in which used the c# 6.0 and .NET Framework 4.6.  
 You can see in my projects:
   
   - [Password Generator]
