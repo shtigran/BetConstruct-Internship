@@ -1,6 +1,6 @@
 # BetConstruct Internship Projects
 
-[![N|Solid](https://bett-market.com/public/upload/system/betconstruct_14603762482336_image.png)](https://www.betconstruct.com/)
+[![N|Solid](http://totallygaming.com/sites/totallygaming/files/company/logo/betconstruct_.png](https://www.betconstruct.com/)
 
 ----
 Here are shown my c# projects, in which used the c# and .NET.  
