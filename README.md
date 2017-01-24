@@ -1,4 +1,4 @@
-# BetConstruct internship projects
+# BetConstruct Internship Projects
 
 [![N|Solid](http://www.puremicrogaming.com/media/1369300/betconstruct-logo-pn.jpg)](https://www.betconstruct.com/)
 
