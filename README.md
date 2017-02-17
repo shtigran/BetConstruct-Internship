@@ -20,7 +20,8 @@ You can see in my projects:
 
 email: shakhbekyantigran@gmail.com
 
-codefights website: https://codefights.com/profile/tigran_sh3
+Resume: https://github.com/shtigran/Resume
+Codefights Website: https://codefights.com/profile/tigran_sh3
 
 
 
