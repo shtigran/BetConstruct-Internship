@@ -22,6 +22,8 @@ email: shakhbekyantigran@gmail.com
 
 Resume: https://github.com/shtigran/Resume
 
+Linkedin:  <https://www.linkedin.com/in/tigranshakhbekyan>     
+
 Codefights Website: https://codefights.com/profile/tigran_sh3
 
 
